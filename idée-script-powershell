@@ -1,0 +1,3 @@
+Remplacement de MDT et WDS par powershell
+
+Surement utiliser PSWinDeploy : https://github.com/rdrouche/PSWinDeploy
